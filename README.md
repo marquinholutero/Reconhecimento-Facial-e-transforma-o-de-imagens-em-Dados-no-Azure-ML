@@ -2,6 +2,6 @@
 
 #Desafio sobre uso das ferramentas de I.A no Azure 
 
--Criar uma conta no Azure
--Configurar serviços
--Testar serviços no https://portal.vision.cognitive.azure.com
+Criar uma conta no Azure
+Configurar serviços
+Testar serviços no https://portal.vision.cognitive.azure.com
